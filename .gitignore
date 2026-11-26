@@ -8,3 +8,5 @@
 [Bb]uilds/
 .vs/
 .vscode/
+*.csproj
+*.sln
